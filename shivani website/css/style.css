@@ -1,0 +1,124 @@
+body{
+background-color:#E5E7E9;
+
+}
+
+.main{
+	font-size: 50px;
+}
+
+	   .image{
+		   height:36px;
+	   }
+
+.image1 {
+	height:150px;
+	width:150px;
+	border-radius:150px;
+	border:5px solid #663333;
+	margin: 0 auto;
+	display: block;
+}
+.image {
+height:280px;
+width: 350px;
+}
+.image2 {
+height:90px;
+width:120px;
+border-radius:150px;
+border:5px solid #FFCC99;
+margin: 0 auto;
+display: block;
+}
+hr.style13 {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+.image3 {
+	text-align: center;
+	width:270px;
+}
+.number {
+ font-size:20px;
+text-align:center;
+}
+.people{
+	font-size: 300%;
+	padding-top: 20px;
+	text-align: center;
+
+}
+.icons {
+font-size: 30px;
+text-align: center;
+display: block;
+width:100px;
+margin: 0 auto;
+display:block;
+}
+.views {
+background-color:#FFCDD2;
+background-size:150% 100%;
+}
+
+
+#map {
+        height: 400px;
+        width: 100%;
+		display: block;
+		margin:0 auto;
+       }
+.img2{
+	height:250px;
+	width:250px;
+	
+	display:block;
+	margin:0 auto;
+}
+.fa-facebook-square:hover{
+	color:#3b5998;
+}
+	.fa-twitter-square:hover{
+		color:#0084b4;
+	}
+	.fa-linkedin-square:hover{
+		color:#0077B5;
+	}
+	.fa-google-plus-square:hover{
+		color:#d34836;
+	}
+	.modifyButton {
+	border-radius:30px;
+	margin-left:50px;
+	margin-top:60px;
+	display:block;
+   margin: 0 auto;
+}
+		
+
+#social-fb:hover {
+     color: #3B5998;
+ }
+ #social-tw:hover {
+     color: #4099FF;
+ }
+ #social-li:hover {
+     color: #3B5998;
+ }
+ #social-gp:hover {
+     color: #d34836;
+ }
+.thumbnail:hover{
+border-color: black;
+}
+.title {
+	font-size:70px;
+	margin-bottom: 70px;
+}
+.bg-black{
+	background-color: black;
+}
+
+	
